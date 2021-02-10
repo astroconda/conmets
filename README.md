@@ -52,5 +52,4 @@ $ conmets -c lpconfig.yml.example --files logfile-2019* dataset
 ## Output
 One plot per conda channel identified in the web server transaction log will be produced summarizing the software titles downloaded, ordered by total transactions along with some other relevant statistics. Titles that are also available via PyPI are shown in bold orange text.
 
-## Example output image
 ![plot](https://raw.githubusercontent.com/astroconda/conmets/master/example_output/astroconda-20190901-20190930.offbytes.png)
